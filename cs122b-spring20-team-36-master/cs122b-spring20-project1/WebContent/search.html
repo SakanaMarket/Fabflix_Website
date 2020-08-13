@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body BGCOLOR="#5EFFFF">
+
+<button onclick="window.location.href = 'index.html';">Home</button>
+<div style="position: absolute; right: 20px; top: 20px;">
+    <button onclick="window.location.href = 'cart.html';">Checkout</button>
+</div>
+
+<h1 ALIGN="CENTER">Search By</h1>
+
+<form ACTION="index.html" METHOD="GET">
+    Title: <input TYPE="TEXT" id="movie_title" name = "movie_title"><br>
+
+    Year: <input TYPE="TEXT" id="movie_year" name = "movie_year"><br>
+
+    Director: <input TYPE="TEXT" id="movie_director" name = "movie_director"><br>
+
+    Star Name: <input TYPE="TEXT" id="star_name" name = "star_name"><br>
+
+    <input type="HIDDEN" name = "clear" value = 1>
+    <input TYPE="SUBMIT" VALUE="Search">
+</form>
+
+</body>
+</html>

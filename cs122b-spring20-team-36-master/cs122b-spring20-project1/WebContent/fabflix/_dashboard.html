@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Dashboard</title>
+</head>
+<button onclick="window.location.href = '../index.html';">Go to Movies List</button>
+<body>
+<h1>Enter new star</h1>
+<form id="star_form">
+    Star Name: <input TYPE="TEXT" id="star_name" name="star_name"><br>
+    Birth Year: <input TYPE="TEXT" id="birth_year" name="birth_year"><br>
+    <input TYPE="SUBMIT" VALUE="Submit">
+</form>
+
+<h1>Enter a new movie</h1>
+<form id="movie_form">
+    Movie Title: <input TYPE="TEXT" id="m_title" name="m_title"><br>
+    Release Year: <input TYPE="TEXT" id="m_year" name="m_year"><br>
+    Director Name: <input TYPE="TEXT" id="m_dir" name="m_dir"><br>
+    Lead Cast Member Name: <input TYPE="TEXT" id="s_name" name="s_name"><br>
+    Genre: <input TYPE="TEXT" id="genre" name="genre"><br>
+    <input TYPE="SUBMIT" VALUE="Submit">
+</form>
+
+<button onclick="window.location.href = 'metadata.html';">Head to Metadata</button>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="new-star.js"></script>
+<script src="new-movie.js"></script>
+</body>
+</html>

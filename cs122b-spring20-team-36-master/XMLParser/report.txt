@@ -1,0 +1,363 @@
+,El grand cavalcodos,0,Bunuel; Year is not defined
+,,1947,Dassin; Title is not defined
+,Catherine of Russia,0,W.Staudte; Year is not defined
+,,1949,W.Jackson; Title is not defined
+,Morgan Stewart's Coming Home,0,Alan~Smithee; Year is not defined
+,Raging Angels,0,Alan~Smithee; Year is not defined
+,,1999,Pollock; Title is not defined
+,,1954,G.Reinhardt; Title is not defined
+,,1954,G.Reinhardt; Title is not defined
+,Stop Train 349,0,Haedrich ; Year is not defined
+,Karate Kid,0,J.G.Avildsen; Year is not defined
+,The Eternal City,0,Scorsese; Year is not defined
+,Gangs of New York,0,Scorsese; Year is not defined
+,Buena Vista Social Club,0,Wenders; Year is not defined
+,Mulholland Drive,0,D.Lynch; Year is not defined
+,Sarabande,0,Egoyan; Year is not defined
+,,1988,Silberling; Title is not defined
+,Fairy Tale: A True Story,0,Sturridge; Year is not defined
+,,0,Dowling; Year is not defined
+,Jerry and Tom,0,diCillo; Year is not defined
+,The Shanghai Triad,0,UnYear95; Year is not defined
+,Taste of Cherry,0,Kiarostami; Year is not defined
+,The Matchmaker,0,M.Joffe; Year is not defined
+,All is Routine,0,M.Judge; Year is not defined
+,Show Me Love,1999,; Director is not defined
+,Together,2001,; Director is not defined
+,In the Bedroom,2001,; Director is not defined
+,Never Never,2002,; Director is not defined
+,Monster's Ball,2002,; Director is not defined
+,Brooke Adams,1949; Duplicate star
+,Mario Adorf,1930; Duplicate star
+,Rati Agnihotri,1960; Duplicate star
+,Edward Albert,1951; Duplicate star
+,Alan Alda,1936; Duplicate star
+,John Alderton,1940; Duplicate star
+,Woody Allen,1935; Duplicate star
+,Richard Anderson,1926; Duplicate star
+,Ursula Andress,1936; Duplicate star
+,Fanny Ardant,1949; Duplicate star
+,Alan Arkin,1934; Duplicate star
+,Lucie Arnaz,1951; Duplicate star
+,Elizabeth Ashley,1939; Duplicate star
+,Fred Astaire,1899; Duplicate star
+,William Atherton,1947; Duplicate star
+,Christopher Atkins,1961; Duplicate star
+,Richard Attenborough,1923; Duplicate star
+,Charles Aznavour,1924; Duplicate star
+,Hank Azaria,1964; Duplicate star
+,Amitabh Bachchan,1942; Duplicate star
+,Josephine Baker,1906; Duplicate star
+,Jill Balcon,1925; Duplicate star
+,William Baldwin,1963; Duplicate star
+,Anne Bancroft,1931; Duplicate star
+,Antonio Banderas,1960; Duplicate star
+,Ellen Barkin,1954; Duplicate star
+,Kim Basinger,1953; Duplicate star
+,Angela Bassett,1958; Duplicate star
+,Ned Beatty,1937; Duplicate star
+,Warren Beatty,1937; Duplicate star
+,John Beck,1943; Duplicate star
+,Harry Belafonte,1927; Duplicate star
+,Tom Bell,1933; Duplicate star
+,Dirk Benedict,1945; Duplicate star
+,Hywel Bennett,1944; Duplicate star
+,Candice Bergen,1946; Duplicate star
+,Pat Boone,1934; Duplicate star
+,John Boorman,1933; Duplicate star
+,Tom Bosley,1927; Duplicate star
+,David Bowie,1947; Duplicate star
+,Bruce Boxleitner,1950; Duplicate star
+,Kenneth Branagh,1960; Duplicate star
+,Marlon Brando,1924; Duplicate star
+,Claude Brasseur,1936; Duplicate star
+,Beau Bridges,1941; Duplicate star
+,Jeff Bridges,1949; Duplicate star
+,James Brolin,1940; Duplicate star
+,Albert Brooks,1947; Duplicate star
+,Mel Brooks,1926; Duplicate star
+,Gary Brown,; Duplicate star
+,Jim Brown,1936; Duplicate star
+,Peter Brown,; Duplicate star
+,Carol Burnett,1933; Duplicate star
+,Ellen Burstyn,1932; Duplicate star
+,Gary Busey,1944; Duplicate star
+,Robert Butler,; Duplicate star
+,William Butler,; Duplicate star
+,Nicolas Cage,1964; Duplicate star
+,Michael Caine,1933; Duplicate star
+,Helena Bonham Carter,1966; Duplicate star
+,Veronica Cartwright,1949; Duplicate star
+,Johnny Cash,1932; Duplicate star
+,Seymour Cassel,1935; Duplicate star
+,Phoebe Cates,1963; Duplicate star
+,Adolfo Celi,1922; Duplicate star
+,Stockard Channing,1944; Duplicate star
+,Geraldine Chaplin,1944; Duplicate star
+,Sydney Chaplin,1926; Duplicate star
+,Cher,1946; Duplicate star
+,Thomas Chong,; Duplicate star
+,Julie Christie,1940; Duplicate star
+,John Cleese,1939; Duplicate star
+,Glenn Close,1947; Duplicate star
+,Jennifer Cluff,; Duplicate star
+,James Coburn,1928; Duplicate star
+,Jeff Conaway,1950; Duplicate star
+,Robert Conrad,1935; Duplicate star
+,Ron Cook,; Duplicate star
+,Francis Ford Coppola,1939; Duplicate star
+,Roger Corman,1926; Duplicate star
+,Kevin Costner,1955; Duplicate star
+,Clotilde Courau,1969; Duplicate star
+,Tom Courtenay,1937; Duplicate star
+,Ronny Cox,1938; Duplicate star
+,Billy Crystal,1948; Duplicate star
+,Kieran Culkin,1982; Duplicate star
+,Robert Culp,1930; Duplicate star
+,Tim Curry,1946; Duplicate star
+,Jamie Lee Curtis,1958; Duplicate star
+,Roger Daltrey,1944; Duplicate star
+,Kim Darby,1947; Duplicate star
+,James Darren,1936; Duplicate star
+,Danielle Darrieux,1917; Duplicate star
+,Ossie Davis,1917; Duplicate star
+,Julie Delpy,1969; Duplicate star
+,Dom DeLuise,1933; Duplicate star
+,Judi Dench,1934; Duplicate star
+,Catherine Deneuve,1943; Duplicate star
+,Bruce Dern,1936; Duplicate star
+,Laura Dern,1967; Duplicate star
+,Marlene Dietrich,1901; Duplicate star
+,Phyllis Diller,1917; Duplicate star
+,Matt Dillon,1964; Duplicate star
+,Kirk Douglas,1916; Duplicate star
+,Brad Dourif,1950; Duplicate star
+,James Drury,1934; Duplicate star
+,Faye Dunaway,1941; Duplicate star
+,Griffin Dunne,1955; Duplicate star
+,Robert Duvall,1931; Duplicate star
+,Clint Eastwood,1930; Duplicate star
+,Blake Edwards,1922; Duplicate star
+,Lisa Eichhorn,1952; Duplicate star
+,Hector Elizondo,1936; Duplicate star
+,Sam Elliott,1944; Duplicate star
+,Michael Elphick,1946; Duplicate star
+,Peter Falk,1927; Duplicate star
+,Mia Farrow,1945; Duplicate star
+,Sherilyn Fenn,1965; Duplicate star
+,Sally Field,1946; Duplicate star
+,Frank Finlay,1926; Duplicate star
+,Albert Finney,1936; Duplicate star
+,Frances Fisher,1952; Duplicate star
+,Bridget Fonda,1964; Duplicate star
+,Jodie Foster,1962; Duplicate star
+,John Foster,; Duplicate star
+,James Fox,1939; Duplicate star
+,Michael J. Fox,1961; Duplicate star
+,Dominic Frontiere,1931; Duplicate star
+,Greta Garbo,1905; Duplicate star
+,Allen Garfield,1939; Duplicate star
+,Beverly Garland,1926; Duplicate star
+,James Garner,1928; Duplicate star
+,Ben Gazzara,1930; Duplicate star
+,Judy Geeson,1948; Duplicate star
+,Bill Gerber,; Duplicate star
+,Richard Gere,1949; Duplicate star
+,Balthazar Getty,1975; Duplicate star
+,Giancarlo Giannini,1942; Duplicate star
+,Henry Gibson,1935; Duplicate star
+,Annie Girardot,1931; Duplicate star
+,Paul Michael Glaser,1943; Duplicate star
+,Jeff Goldblum,1952; Duplicate star
+,Colin Gordon,1911; Duplicate star
+,Robert Gordon,; Duplicate star
+,Elliott Gould,1938; Duplicate star
+,Harold Gould,1923; Duplicate star
+,Graham Greene,1904; Duplicate star
+,Pam Grier,1949; Duplicate star
+,Melanie Griffith,1957; Duplicate star
+,Charles Grodin,1935; Duplicate star
+,Gene Hackman,1930; Duplicate star
+,Harry Hamlin,1951; Duplicate star
+,Tom Hanks,1956; Duplicate star
+,Mark Harmon,1951; Duplicate star
+,John Hart,; Duplicate star
+,Mariette Hartley,1940; Duplicate star
+,Rutger Hauer,1944; Duplicate star
+,Goldie Hawn,1945; Duplicate star
+,John Heard,1946; Duplicate star
+,Mariel Hemingway,1961; Duplicate star
+,David Hemmings,1941; Duplicate star
+,Justin Henry,1971; Duplicate star
+,Bernard Hepton,1925; Duplicate star
+,Dustin Hoffman,1937; Duplicate star
+,Bo Hopkins,1942; Duplicate star
+,Bob Hoskins,1942; Duplicate star
+,Dan Howard,; Duplicate star
+,Helen Hunt,1963; Duplicate star
+,Holly Hunter,1958; Duplicate star
+,Elizabeth Hurley,1965; Duplicate star
+,John Hurt,1940; Duplicate star
+,William Hurt,1950; Duplicate star
+,Olivia Hussey,1951; Duplicate star
+,Anjelica Huston,1951; Duplicate star
+,Timothy Hutton,1960; Duplicate star
+,Jeremy Irons,1948; Duplicate star
+,Samuel L. Jackson,1948; Duplicate star
+,Derek Jacobi,1938; Duplicate star
+,Elton John,1947; Duplicate star
+,Stephen Johnson,; Duplicate star
+,Freddie Jones,1927; Duplicate star
+,Shirley Jones,1934; Duplicate star
+,Tommy Lee Jones,1946; Duplicate star
+,Stacy Keach,1941; Duplicate star
+,Marthe Keller,1945; Duplicate star
+,Gary Kemp,1959; Duplicate star
+,George Kennedy,1925; Duplicate star
+,Margot Kidder,1948; Duplicate star
+,Nicole Kidman,1967; Duplicate star
+,Val Kilmer,1959; Duplicate star
+,Greg Kinnear,1963; Duplicate star
+,Kris Kristofferson,1936; Duplicate star
+,Burt Kwouk,1930; Duplicate star
+,Diane Lane,1965; Duplicate star
+,Mike Lane,; Duplicate star
+,Jessica Lange,1949; Duplicate star
+,Louise Lasser,1939; Duplicate star
+,John Phillip Law,1937; Duplicate star
+,Cloris Leachman,1926; Duplicate star
+,Mark Lee,; Duplicate star
+,Joe Lewis,; Duplicate star
+,Robert Loggia,1930; Duplicate star
+,Karina Lombard,1969; Duplicate star
+,Shirley MacLaine,1934; Duplicate star
+,Jena Malone,1984; Duplicate star
+,Jane March,1973; Duplicate star
+,Jane March,1973; Duplicate star
+,Bryan Marshall,; Duplicate star
+,James Marshall,1967; Duplicate star
+,Steve Martin,1945; Duplicate star
+,Anna Massey,1937; Duplicate star
+,Peter Masterson,; Duplicate star
+,Chiara Mastroianni,1972; Duplicate star
+,Elaine May,1932; Duplicate star
+,Malcolm McDowell,1943; Duplicate star
+,Ian McShane,1942; Duplicate star
+,Spike Milligan,1918; Duplicate star
+,Ron Moody,1924; Duplicate star
+,Terry Moore,1929; Duplicate star
+,Jeanne Moreau,1928; Duplicate star
+,Rita Moreno,1931; Duplicate star
+,Michael Murphy,; Duplicate star
+,Don Murray,1929; Duplicate star
+,Tom Murray,; Duplicate star
+,James Naughton,1945; Duplicate star
+,Judd Nelson,1959; Duplicate star
+,Willie Nelson,1933; Duplicate star
+,Paul Newman,1925; Duplicate star
+,Jack Nicholson,1937; Duplicate star
+,Nick Nolte,1941; Duplicate star
+,Kim Novak,1933; Duplicate star
+,Kevin OConnor,; Duplicate star
+,Gary Oldman,1958; Duplicate star
+,Per Oscarsson,1927; Duplicate star
+,Peter OToole,1932; Duplicate star
+,Frank Oz,1944; Duplicate star
+,Sarah Jessica Parker,1965; Duplicate star
+,Dolly Parton,1946; Duplicate star
+,Sean Penn,1960; Duplicate star
+,Bernadette Peters,1948; Duplicate star
+,Leslie Phillips,1924; Duplicate star
+,Michel Piccoli,1925; Duplicate star
+,Ronald Pickup,1940; Duplicate star
+,Marie-France Pisier,1944; Duplicate star
+,Joan Plowright,1929; Duplicate star
+,Roman Polanski,1933; Duplicate star
+,Sydney Pollack,1934; Duplicate star
+,Natalie Portman,1981; Duplicate star
+,Micheline Presle,1922; Duplicate star
+,Elvis Presley,1935; Duplicate star
+,Barry Primus,1938; Duplicate star
+,Jonathan Pryce,1947; Duplicate star
+,Anthony Quinn,1915; Duplicate star
+,Ronald Reagan,1911; Duplicate star
+,Lynn Redgrave,1943; Duplicate star
+,Vanessa Redgrave,1937; Duplicate star
+,Roger Rees,1944; Duplicate star
+,Frances Reid,; Duplicate star
+,Carl Reiner,1922; Duplicate star
+,Burt Reynolds,1936; Duplicate star
+,Don Rickles,1926; Duplicate star
+,Leni Riefenstahl,1902; Duplicate star
+,Diana Rigg,1938; Duplicate star
+,John Ritter,1948; Duplicate star
+,Eric Roberts,1956; Duplicate star
+,Julia Roberts,1967; Duplicate star
+,James Robertson,; Duplicate star
+,Jean Rochefort,1930; Duplicate star
+,Mickey Rooney,1920; Duplicate star
+,Leo Rossi,; Duplicate star
+,Kurt Russell,1951; Duplicate star
+,Winona Ryder,1971; Duplicate star
+,Soupy Sales,1926; Duplicate star
+,Peter Sallis,1921; Duplicate star
+,Jennifer Salt,1944; Duplicate star
+,Adam Sandler,1966; Duplicate star
+,Chris Sarandon,1942; Duplicate star
+,Susan Sarandon,1946; Duplicate star
+,Fred Savage,1976; Duplicate star
+,Greta Scacchi,1960; Duplicate star
+,Arnold Schwarzenegger,1947; Duplicate star
+,Hanna Schygulla,1943; Duplicate star
+,Steven Seagal,1952; Duplicate star
+,George Segal,1934; Duplicate star
+,Jane Seymour,1951; Duplicate star
+,Tupac Shakur,1971; Duplicate star
+,Omar Sharif,1932; Duplicate star
+,William Shatner,1931; Duplicate star
+,Martin Sheen,1940; Duplicate star
+,Sam Shepard,1943; Duplicate star
+,Martin Short,1950; Duplicate star
+,Ron Silver,1946; Duplicate star
+,Tom Skerritt,1933; Duplicate star
+,Christian Slater,1969; Duplicate star
+,Lois Smith,1930; Duplicate star
+,Maggie Smith,1934; Duplicate star
+,Paul Sorvino,1939; Duplicate star
+,David Soul,1943; Duplicate star
+,Bud Spencer,1929; Duplicate star
+,Sylvester Stallone,1946; Duplicate star
+,John Standing,1934; Duplicate star
+,Maureen Stapleton,1925; Duplicate star
+,Rod Steiger,1925; Duplicate star
+,Andrew Stevens,1955; Duplicate star
+,Christopher Stone,; Duplicate star
+,Meryl Streep,1949; Duplicate star
+,Donald Sutherland,1935; Duplicate star
+,Dudley Sutton,1933; Duplicate star
+,Bo Svenson,1941; Duplicate star
+,Patrick Swayze,1952; Duplicate star
+,Derek Thompson,; Duplicate star
+,Jack Thompson,1940; Duplicate star
+,Rip Torn,1931; Duplicate star
+,John Travolta,1954; Duplicate star
+,Guinevere Turner,1968; Duplicate star
+,Robert Vaughn,1932; Duplicate star
+,Jon Voight,1938; Duplicate star
+,Lindsay Wagner,1949; Duplicate star
+,Robert Wagner,1930; Duplicate star
+,Christopher Walken,1943; Duplicate star
+,Lesley Ann Warren,1946; Duplicate star
+,Craig Wasson,1954; Duplicate star
+,Sam Waterston,1940; Duplicate star
+,Emily Watson,1967; Duplicate star
+,Sigourney Weaver,1949; Duplicate star
+,Robin Williams,1951; Duplicate star
+,Vanessa Williams,1963; Duplicate star
+,Vanessa Williams,1963; Duplicate star
+,Fred Williamson,1938; Duplicate star
+,Scott Wilson,1942; Duplicate star
+,Kate Winslet,1975; Duplicate star
+,David Wood,; Duplicate star
+,Elijah Wood,1981; Duplicate star
+,Michael York,1942; Duplicate star

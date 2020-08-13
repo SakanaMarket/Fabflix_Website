@@ -1,0 +1,98 @@
+<!-- This example is following frontend and backend separation.
+
+    This .html performs two steps:
+    1. Create a html template skeleton, with all the elements defined (some left empty) and named with ids.
+    2. Load index.js to populate the data into empty elements.
+    -->
+
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+    <!-- Load jQuery and Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <!-- auto complete -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.7/jquery.autocomplete.min.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Movie List</title>
+</head>
+<body BGCOLOR="#5EFFFF">
+<button onclick="window.location.href = 'fabflix/_dashboard.html';">Employee Dashboard</button>
+
+<div style="position: absolute; right: 20px; top: 20px;">
+    <button onclick="window.location.href = 'cart.html';">Checkout</button>
+</div>
+
+<h1>movies</h1>
+<!--<a href = "search.html"> Search By </a>-->
+<!--<a href = "browsebygenre.html"> Browse By Genre </a>-->
+<!--<a href = "browsebytitle.html"> Browse By Title </a>-->
+<button onclick="window.location.href = 'search.html';">Search By</button>
+<button onclick="window.location.href = 'browsebygenre.html';">Browse By Genre</button>
+<button onclick="window.location.href = 'browsebytitle.html';">Browse By Title</button>
+<button onclick="sortTitle()">Sort by Title</button>
+<button onclick="sortRating()">Sort by Rating</button>
+<button onclick="sortASC()">Ascending Order</button>
+<button onclick="sortDESC()">Descending Order</button>
+
+<div style="style.css">
+    <form id="title_search" METHOD="GET">
+        <input TYPE="TEXT" id="autocomplete" class="autocomplete-searchbox form-control" placeholder="Search..." name="movie_title">
+        <button type="submit" value="query">Go</button>
+    </form>
+</div>
+<br>
+<form id="submitN">
+    <label for="N">Movies per page:</label>
+    <select id="N" name = "N">
+        <option value = "10">10</option>
+        <option value = "25">25</option>
+        <option value = "50">50</option>
+        <option value = "100">100</option>
+    </select>
+    <input type="submit">
+</form>
+<br>
+<!-- Id "star_table" is useful for jQuery to find the html element with id, class here is mapping to Bootstrap defined class CSS -->
+<table id=movies_table class="table table-striped">
+    <!-- Create a table header -->
+    <thead>
+    <tr>
+        <!-- Titles of each column-->
+        <th>Title</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Genres</th>
+        <th>Cast</th>
+        <th>Rating</th>
+        <th>Purchase</th>
+    </tr>
+    </thead>
+    <!-- Table body is left empty here, will be populated with the data retrieved with index.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody id=movies_table_body></tbody>
+</table>
+
+<button onclick="jumpPage(Math.sign(-1))" id="prev">Previous</button>
+<button onclick="jumpPage(1)" id="next">Next</button>
+
+<!-- Load our own JS file -->
+<!-- The path is relative to index.html, since these two files are in the same directory -->
+<!-- Note the url does not contain a "/" in the beginning, which means the url is relative to current path
+     otherwise the url is relative to the root path-->
+<script src="index.js"></script>
+</body>
+
+
+</html>
